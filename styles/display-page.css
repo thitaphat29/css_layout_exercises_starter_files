@@ -1,0 +1,46 @@
+.container {
+ 	width: 800px; 
+ 	height: 500px;
+ 	border: 1px black solid;
+ 	font-size: 0;
+ 	margin: 100px auto;
+
+}
+
+.first-row {
+	width: 50%;
+	height: 200px;
+	display: inline-block;
+	border: 1px black solid;
+}
+
+.green-box {
+  background-color: #4C7720;
+}
+
+.blue-box {
+  background-color: #004DF2;
+}
+
+.second-row{
+	width: 33.33%;
+	height: 300px;
+	display: inline-block;
+	border: 1px black solid;
+}
+
+.gray-box{
+	background-color: #808080;
+}
+
+.black-box{
+	background-color: black;
+}
+
+.yellow-box{
+	background-color: #E8A94D;
+}
+
+
+
+
